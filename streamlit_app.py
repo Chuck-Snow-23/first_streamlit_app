@@ -2,4 +2,7 @@ import streamlit
 
 streamlit.title('My Parents new helthy diner')
 streamlit.header('Breakfast Menu')
-streamlit.text('Blueberry oatmeal')
+streamlit.text('Omega 3 & Blueberry Oatmeal')
+streamlit.text('Kale, Spinach & Rocket Smoothie')
+streamlit.text('Hard-Boiled Free-Range Egg')
+
